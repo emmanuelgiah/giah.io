@@ -4,7 +4,8 @@
   "description": "This is my website/portfolio for all my future projects",
   "main": "index.js",
   "dependencies": {
-    "bootstrap": "^5.0.2"
+    "bootstrap": "^5.0.2",
+    "http": "0.0.1-security"
   },
   "devDependencies": {},
   "scripts": {
