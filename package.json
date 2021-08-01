@@ -1,0 +1,15 @@
+{
+  "name": "giah.io",
+  "version": "1.0.0",
+  "description": "This is my website/portfolio for all my future projects",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^5.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emmanuel Giah",
+  "license": "ISC"
+}
