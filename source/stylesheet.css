@@ -51,3 +51,7 @@ body {
   color: #fff;
   border-bottom-color: #fff;
 }
+
+.rounded-circle {
+  border: 2px solid white;
+}
